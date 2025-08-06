@@ -17,14 +17,11 @@ We analyzed:
 ---
 
 ## Repository Contents
-- **`input_files/`**  
-  GROMACS topology and structure files for wild-type and mutant systems.
 - **`scripts/`**  
   Python scripts for:
   - Trajectory analysis (RMSD, RMSF, interfacial contacts).
   - Hydrogen bonding and salt-bridge analysis.
   - Lipid interaction profiling.
-- **`analysis_notebooks/`**  
   Jupyter notebooks demonstrating mutation effect visualization.
 - **`data/`**  
   Example processed data and result summaries.
