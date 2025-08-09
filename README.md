@@ -17,6 +17,10 @@ We analyzed:
 ---
 
 ## Repository Contents
+- **`AA_simulation/`**
+  All_atom simulation configs
+- **`CG_simulation/`**
+  Corse_grain simulation configs 
 - **`scripts/`**  
   Python scripts for:
   - Trajectory analysis (RMSD, RMSF, interfacial contacts).
